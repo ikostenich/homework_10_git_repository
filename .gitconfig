@@ -1,0 +1,8 @@
+[user]
+	name = Igor Kostenich
+	email = i.kostenich@gmail.com
+
+[alias]
+  ac = !git add . && git commit
+[pull]
+	rebase = true
